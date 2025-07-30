@@ -621,6 +621,7 @@ body {
     /* Info boxes on the right */
     .info-box {
         display: flex;
+         border: 1px solid blue  ;
         align-items: flex-start;
         background: #f9f9f9;
         padding: 20px;
